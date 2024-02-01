@@ -35,7 +35,7 @@ class Array15
 		System.out.print("Merge two Arrays:");	
 		for(int i=0;i<k;i++)
 		{
-			System.out.printf("a+b"=" ");
+			System.out.println(c[i]);
         }
     }
 }

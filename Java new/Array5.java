@@ -2,14 +2,14 @@ import java.util.Scanner;
 class Array5 {
   public static void main(String[] args) {
     int n, max;
-    Scanner Sc = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
     System.out.print("Enter total number of elements : ");
-    n = Sc.nextInt();
+    n = sc.nextInt();
     int arr[] = new int[n];
     System.out.println("Enter all the elements:");
     for (int i = 0; i < n; i++) 
     {
-      arr[i] = Sc.nextInt();
+      arr[i] = sc.nextInt();
     }
     for (int i = 0; i < n; i++) 
     {

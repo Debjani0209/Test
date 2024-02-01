@@ -1,0 +1,27 @@
+
+.container{height: 100vh;
+            width: 100wv;
+            color: #444;
+            background-color: #ffe7e3;
+            text-align: center;
+}
+.love{
+    padding-top: 20%;
+}
+h2{
+    font-size: 72px;
+    margin-bottom: 30px;
+}
+.love span{
+    color: #df8979;
+}
+.love a{
+    text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10px;
+    border-radius: 15px;
+    border: #444 solid;
+}
+.no{color: red;}
+.yes{color: rgb(5, 104, 5);}
